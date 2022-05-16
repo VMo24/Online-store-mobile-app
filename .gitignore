@@ -108,6 +108,7 @@ dist
 
 #Specific files
 mobile_design_concept.jpg
+notes.txt
 
 #Expo specific:
 node_modules/
@@ -239,3 +240,4 @@ exports
 *.cache
 build
 .strapi-updater.json
+README.md
